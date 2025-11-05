@@ -1,7 +1,7 @@
-# ☆ Hey there, I'm [Your Name]
+# ☆ Hey there, I'm Jennifer Innocent
 
 🎓 First-year student in **Artificial Intelligence and Data Science**  
-📍 Based in [Your City, Country]  
+📍 Based in Chennai, India  
 💡 Curious mind exploring how data becomes intelligence
 
 ---
@@ -29,8 +29,8 @@
 ---
 
 ## ☆ Connect
-📧 **Email:** [yourname@email.com]  
-🔗 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+📧 **Email:** jenniferinnocent.10@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/jennifer-innocent-84a997343/
 
 ---
 
